@@ -1,0 +1,6 @@
+-- this fils is for creating new database tables
+-- a statement should be like:
+--	CREATE TABLE IF NOT EXIST `xxx` (
+--		xxx type ...,
+--	 	...
+--	)
